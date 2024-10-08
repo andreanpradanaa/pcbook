@@ -1,0 +1,75 @@
+{
+  "id": "27f92288-5110-4c5d-b7be-bb431cd68d6c",
+  "brand": "Dell",
+  "name": "Latitude",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i9-9980HK",
+    "number_cores": 3,
+    "number_threads": 7,
+    "min_ghz": 2.288284758740249,
+    "max_ghz": 3.358395693618768
+  },
+  "ram": {
+    "value": "49",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "Nvidia",
+      "name": "RTX 2060",
+      "min_ghz": 1.2706311983215657,
+      "max_ghz": 1.292581268828922,
+      "memory": {
+        "value": "3",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "brand": "Nvidia",
+      "name": "RTX 2070",
+      "min_ghz": 1.0573080579313818,
+      "max_ghz": 1.9485559468401978,
+      "memory": {
+        "value": "3",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "915",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "1",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 14.803357,
+    "resolution": {
+      "width": 5344,
+      "height": 3006
+    },
+    "panel": "OLED",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "AZERTY",
+    "backlit": true
+  },
+  "weight_kg": 1.0411473530893607,
+  "price_usd": 2288.2149530695337,
+  "release_year": 2015,
+  "updated_at": {
+    "seconds": "1727169771",
+    "nanos": 861681800
+  }
+}
